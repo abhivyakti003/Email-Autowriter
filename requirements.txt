@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+huggingface_hub
+streamlit
+python-dotenv
+python-docx
+docx2txt
+PyMuPDF
